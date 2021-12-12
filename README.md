@@ -5,3 +5,9 @@ Architecture:
     There is a project PnhCMS.Repository. used for Business Entities and abstracting data access.
     There is a project PnhCMS.Services. used for Messaging purpose and SQL related activities.
     This is used for to display View and connect with angular js.
+    
+1.       .Net Framework 4.6.1
+2.       Visual Studio 2019
+3.       Entity Framework 6
+4.       MVC 5
+5.       Angular JS
