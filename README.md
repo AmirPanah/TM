@@ -8,6 +8,6 @@ Architecture:
     
 1.       .Net Framework 4.6.1
 2.       Visual Studio 2019
-3.       Entity Framework 6
-4.       MVC 5
-5.       Angular JS
+3.       MVC 5
+4.       Angular JS
+5.       Entity Framework 6
